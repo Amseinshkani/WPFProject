@@ -1,0 +1,42 @@
+﻿<Window x:Class="WPFproject.AddEditProducts"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFproject"
+        mc:Ignorable="d"
+        Title="AddEditProducts" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+
+            <DockPanel Margin="10">
+                <Label Margin="10">Name:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500px" Name="TBName"/>
+            </DockPanel>
+
+            <DockPanel Margin="10">
+                <Label Margin="10">Author:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500px" Name="TBAuthor"/>
+            </DockPanel>
+
+            <DockPanel Margin="10">
+                <Label Margin="10">Price:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500px" Name="TBPrice" TextChanged="TBPrice_TextChanged"/>
+            </DockPanel>
+
+            <DockPanel Margin="10">
+                <Label Margin="10">AvailableCount:</Label>
+                <TextBox HorizontalAlignment="Right" Width="500px" Name="TBAvailableCount" TextChanged="TBAvailableCount_TextChanged" />
+            </DockPanel>
+
+            <Label Name="lblError" HorizontalAlignment="Right" Foreground="Red" FontSize="18" Margin="2px"/>
+            <DockPanel Margin="10" HorizontalAlignment="Right" >
+
+                <Button Margin="10" Height="50" Width="120" Name="BtnCancel" Click="BtnCancel_Click">Cancel</Button>
+                <Button Margin="10" Height="50" Width="120" Name="BtnOk" Click="BtnOk_Click">Save</Button>
+
+            </DockPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

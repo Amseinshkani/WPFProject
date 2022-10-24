@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ReSources\273-2730400_contact-person-contact-person-icon-hd-png-download.png" />
+    <None Remove="ReSources\A Perfect Circle.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ReSources\273-2730400_contact-person-contact-person-icon-hd-png-download.png" />
+    <Resource Include="ReSources\A Perfect Circle.jpg" />
+  </ItemGroup>
+
+</Project>

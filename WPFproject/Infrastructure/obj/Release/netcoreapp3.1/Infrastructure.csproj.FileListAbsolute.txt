@@ -1,0 +1,11 @@
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\bin\Release\netcoreapp3.1\DemoDBEmployess.csv
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.dll
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.dll
+C:\Users\Win11\Desktop\WPFproject\WPFproject\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.pdb
